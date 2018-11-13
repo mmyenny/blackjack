@@ -178,7 +178,7 @@ const dealCardsToDealer = () => {
 }
 
 const playAgain = () => {
-  // how to make the page
+  location.reload()
 }
 
 const main = () => {
